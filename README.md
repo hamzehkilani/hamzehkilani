@@ -28,7 +28,31 @@
 
 ###
 
-<p align="left">I'm  Muhammad Ali<br><br>- 🔭 I’m working as Flutter Developer<br>- 📚 I'm currently learning Laravel and Rest API</p>
+# Hi there! 👋
+
+<p align="left">
+    I'm **Hamzeh Kilani** <br><br>
+    - 🔭 I’m working as a **Full Stack Developer** <br>
+    - 📚 I'm currently learning **Laravel** and **REST API** <br>
+</p>
+
+---
+
+## About Me
+
+- 🌍 Based in **Saudi Arabia** 🇸🇦  
+- 💬 I’m fluent in **Arabic** and **English**  
+- 🛠️ Skilled in **JavaScript**, **PHP**, **LARAVEL**,**Ajax**, **Vite**,**ReactJS**,**HTML**, **CSS**, **Tailwind CSS**, and **jQuery**  
+- 🎯 Focused on **building modern, responsive web applications**  
+
+---
+
+## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/hamzeh-kilani)  
+- [GitHub](https://github.com/hamzehkilani)  
+
+---
 
 ###
 
@@ -83,14 +107,14 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadali224&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadali224&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=hazmehkilani&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hazmehkilani&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=muhammadali224&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=hazmehkilani&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
@@ -98,12 +122,12 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/muhammadali224/muhammadali224/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/hazmehkilani/hazmehkilani/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/muhammadali224/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/hazmehkilani/count.svg?"  />
 </div>
 
 ###
