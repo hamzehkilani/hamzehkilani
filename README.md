@@ -8,12 +8,10 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/muhammad-ali224/" target="_blank">
+  <a href="https://www.linkedin.com/in/hamzeh-kilani-ba689523b" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://stackoverflow.com/users/7918821/muhammad-ali" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo"  />
-  </a>
+
 </div>
 
 [![StandWithPalestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/badges/StandWithPalestine.svg)](https://github.com/TheBSD/StandWithPalestine/blob/main/docs/README.md)
@@ -49,7 +47,7 @@
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/hamzeh-kilani)  
+- [LinkedIn](https://www.linkedin.com/in/hamzeh-kilani-ba689523b)  
 - [GitHub](https://github.com/hamzehkilani)  
 
 ---
