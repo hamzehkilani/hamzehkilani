@@ -112,8 +112,7 @@
 </div>
 ###
 
-<div align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=hamzehkilani&hide_border=true&border_radius=0.1" alt="GitHub Streak" /></a></div>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=hamzehkilani)](https://git.io/streak-stats)
 
 ###
 
